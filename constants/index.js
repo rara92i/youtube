@@ -1,4 +1,4 @@
-export const rapidApiKey = '4254e61b2cmshdb352ba09260a15p137dcajsn40dcecd5408d';
+export const rapidApiKey = 'xxxxxxxxxxxxxxxxxxxxx';
 // below is the api used from rapid api hub
 // https://rapidapi.com/ytdlfree/api/youtube-v3-alternative/
 
